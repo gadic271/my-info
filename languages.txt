@@ -1,0 +1,12 @@
+Python
+c
+C++
+html
+java
+javascript
+Kotlin
+scratch
+Arduino
+rust
+css
+Pascal
